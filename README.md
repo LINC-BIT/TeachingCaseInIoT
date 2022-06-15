@@ -15,8 +15,8 @@
    <td class="xl67">名称</td> 
    <td class="xl67">年份</td> 
    <td class="xl67">城市</td> 
-   <td class="xl67" style="width:70px">行业</td> 
-   <td class="xl67" style="width:95px">规模</td> 
+   <td class="xl67" width="70px">行业</td> 
+   <td class="xl67" width="95px">规模</td> 
    <td class="xl67">相关技术</td> 
   </tr> 
   <tr height="47"> 
