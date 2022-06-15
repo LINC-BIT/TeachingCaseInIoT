@@ -1,4 +1,4 @@
-## 1.大数据案例统计
+## 1 大数据案例统计
 <table style="width:799pt"> <!--StartFragment--> 
  <colgroup>
   <col width="133" style="mso-width-source:userset;mso-width-alt:4266;width:100pt"> 
@@ -515,8 +515,7 @@
  </tbody>
 </table>
 
-## 2.案例统计
-（即excel 数据统计的4张图）
+## 2 案例统计
 <table> <!--StartFragment--> 
  <colgroup>
   <col width="72" span="3" style="width:54pt"> 
@@ -739,7 +738,7 @@
 </table>
 
 
-## 3. 案例介绍
+## 3 案例介绍
 
 ### 3.1 大数据海关案例
 #### 3.1.1. 项目背景
