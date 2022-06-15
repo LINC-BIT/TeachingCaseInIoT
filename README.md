@@ -567,8 +567,8 @@
  </colgroup>
  <tbody>
   <tr height="20"> 
-   <td class="" align="left">地域</td> 
-   <td class="" align="left" style="width:55px">频次</td> 
+   <td class="" align="left" width="60px">地域</td> 
+   <td class="" align="left" width="55px">频次</td> 
     <td rowspan="15" class="xl68" style="width:1000px"><img src="shengfen.png" ></img></td> 
   </tr> 
   <tr height="20"> 
@@ -616,7 +616,7 @@
    <td class="xl66">1</td> 
   </tr> 
   <tr height="20"> 
-   <td class="xl66" style="width:60pt">内蒙古</td> 
+   <td class="xl66">内蒙古</td> 
    <td class="xl66">2</td> 
   </tr> 
   <tr height="20"> 
@@ -637,8 +637,8 @@
  </colgroup>
  <tbody>
   <tr height="20"> 
-   <td class="" align="left" style="width:55px">行业</td> 
-   <td class="" align="left" style="width:55px">频次</td> 
+   <td class="" align="left" width="55px">行业</td> 
+   <td class="" align="left" width="55px">频次</td> 
    <td rowspan="11" class="xl68" style="width:1000px"><img src="hangye.png" ></img></td> 
   </tr> 
   <tr height="20"> 
@@ -691,7 +691,7 @@
  </colgroup>
  <tbody>
   <tr height="20"> 
-   <td class="" align="left" style="width:150px">规模</td> 
+   <td class="" align="left" width="150px">规模</td> 
    <td class="" align="left">频次</td> 
     <td rowspan="11" class="xl68" style="width:1000px"><img src="guimo.png" ></img></td> 
   </tr> 
