@@ -637,7 +637,7 @@
  </colgroup>
  <tbody>
   <tr height="20"> 
-   <td class="" align="left" width="55px">行业</td> 
+   <td class="" align="left" width="65px">行业</td> 
    <td class="" align="left" width="55px">频次</td> 
    <td rowspan="11" class="xl68" style="width:1000px"><img src="hangye.png" ></img></td> 
   </tr> 
