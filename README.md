@@ -1,5 +1,3 @@
-# tmp
- 
 ## 1.大数据案例统计
 <table style="width:799pt"> <!--StartFragment--> 
  <colgroup>
@@ -17,8 +15,8 @@
    <td class="xl67">名称</td> 
    <td class="xl67">年份</td> 
    <td class="xl67">城市</td> 
-   <td class="xl67">行业</td> 
-   <td class="xl67">规模</td> 
+   <td class="xl67" style="width:65px">行业</td> 
+   <td class="xl67" style="width:95px">规模</td> 
    <td class="xl67">相关技术</td> 
   </tr> 
   <tr height="47"> 
@@ -526,7 +524,7 @@
  <tbody>
   <tr height="20"> 
    <td class="" align="left">年份</td> 
-   <td class="" align="left">频次</td> 
+   <td class="" align="left" >频次</td> 
     <td rowspan="11" class="xl68" style="width:1000px"><img src="nianfen.png" ></img></td> 
   </tr> 
   <tr height="20"> 
@@ -570,7 +568,7 @@
  <tbody>
   <tr height="20"> 
    <td class="" align="left">地域</td> 
-   <td class="" align="left">频次</td> 
+   <td class="" align="left" style="width:55px">频次</td> 
     <td rowspan="15" class="xl68" style="width:1000px"><img src="shengfen.png" ></img></td> 
   </tr> 
   <tr height="20"> 
@@ -639,8 +637,8 @@
  </colgroup>
  <tbody>
   <tr height="20"> 
-   <td class="" align="left">行业</td> 
-   <td class="" align="left">频次</td> 
+   <td class="" align="left" style="width:55px">行业</td> 
+   <td class="" align="left" style="width:55px">频次</td> 
    <td rowspan="11" class="xl68" style="width:1000px"><img src="hangye.png" ></img></td> 
   </tr> 
   <tr height="20"> 
@@ -693,7 +691,7 @@
  </colgroup>
  <tbody>
   <tr height="20"> 
-   <td class="" align="left">规模</td> 
+   <td class="" align="left" style="width:150px">规模</td> 
    <td class="" align="left">频次</td> 
     <td rowspan="11" class="xl68" style="width:1000px"><img src="guimo.png" ></img></td> 
   </tr> 
