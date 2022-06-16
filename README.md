@@ -588,7 +588,7 @@
  <tbody>
   <tr height="20"> 
    <td class="" align="left">年份</td> 
-   <td class="" align="left" >频次</td> 
+   <td class="" align="left" width="60px">频次</td> 
     <td rowspan="11" class="xl68" style="width:1000px"><img src="nianfen.png" ></img></td> 
   </tr> 
   <tr height="20"> 
