@@ -1,4 +1,4 @@
-* [1 大数据案例统计](#1-大数据案例统计)
+* [1 物联网案例统计](#1-物联网案例统计)
 * [2 案例统计](#2-案例统计)
 * [3 案例介绍](#3-案例介绍)
     * [3.1 大数据海关案例](#31-大数据海关案例)
@@ -63,7 +63,7 @@
     * [3.60 数字乡村三维可视化一体管控平台案例](#360-数字乡村三维可视化一体管控平台案例)
     * [3.61 经济开发区数字园区案例](#361-经济开发区数字园区案例)
 
-## 1 大数据案例统计
+## 1 物联网案例统计
 <table style="width:799pt"> <!--StartFragment--> 
  <colgroup>
   <col width="133" style="mso-width-source:userset;mso-width-alt:4266;width:100pt"> 
@@ -85,7 +85,7 @@
    <td class="xl67">相关技术</td> 
   </tr> 
   <tr height="47"> 
-   <td rowspan="11" class="xl67">行业大数据</td> 
+   <td rowspan="11" class="xl67">物联网行业大数据</td> 
    <td class="xl67">零售业智能运营系统</td> 
    <td class="xl67">2020</td> 
    <td class="xl67">湖南长沙</td> 
