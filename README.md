@@ -174,7 +174,7 @@
    <td class="xl66">大数据批流处理、用户行为分析等技术</td> 
   </tr> 
   <tr height="47"> 
-   <td rowspan="8" class="xl67">工业大数据</td> 
+   <td rowspan="8" class="xl67">工业互联网</td> 
    <td class="xl67">司法拍卖信息核查分析平台</td> 
    <td class="xl67">2021</td> 
    <td class="xl67">浙江杭州</td> 
@@ -239,7 +239,7 @@
    <td class="xl66">GIS可视化、实时监测、预警等技术</td> 
   </tr> 
   <tr height="47"> 
-   <td rowspan="12" class="xl67">智慧系统</td> 
+   <td rowspan="12" class="xl67">智慧物联网系统</td> 
    <td class="xl67">智慧果园服务平台</td> 
    <td class="xl67">2020</td> 
    <td class="xl67">浙江台州</td> 
@@ -336,7 +336,7 @@
    <td class="xl66">AI（NLP等）、数字孪生、知识图谱、ETL等技术</td> 
   </tr> 
   <tr height="47"> 
-   <td rowspan="20" class="xl67">服务管理平台</td> 
+   <td rowspan="20" class="xl67">物联网及大数据服务管理平台</td> 
    <td class="xl67">面向人工智能的科研与教学平台</td> 
    <td class="xl67">2021</td> 
    <td class="xl67">北京</td> 
